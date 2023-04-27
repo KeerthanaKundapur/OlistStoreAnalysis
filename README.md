@@ -58,3 +58,11 @@ There is no relationship between review scores and shipping days.
 
 Conclusion:
 Businesses should focus on other factors.
+
+Based on the insights and conclusions from the Olist store analysis, the following business solutions can be proposed:
+1.Businesses should target weekdays to maximize sales, and encourage the use of credit cards as the preferred mode of payment.
+2.To increase the number of orders with a review score of 5, businesses should encourage the use of credit cards as the preferred mode of payment.
+3.Businesses should focus on improving delivery times for product categories, payment types, cities, and states that take more days to deliver orders to customers.
+4.Businesses can focus on product categories that have high prices and payment values and encourage the use of credit cards and boleto as the preferred mode of payment.
+5.Businesses should focus on other factors, as there is no relationship between review scores and shipping days.
+Overall, the analysis highlights the importance of understanding customer behavior, including their preferred payment methods, product categories, and delivery times. By focusing on these factors, businesses can optimize their operations and improve customer satisfaction, leading to increased sales and profitability.
